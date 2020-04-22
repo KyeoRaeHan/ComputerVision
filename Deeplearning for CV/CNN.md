@@ -10,4 +10,6 @@
 
 
 합성곱 연산
-![3](https://user-images.githubusercontent.com/59241047/80000095-a9df6580-84f7-11ea-8b72-d3a6492373aa.JPG)
+
+![합성곱연산](https://user-images.githubusercontent.com/59241047/80000332-f88cff80-84f7-11ea-8262-8dc68fbd3e05.JPG)
+
