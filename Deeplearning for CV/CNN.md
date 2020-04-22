@@ -1,4 +1,5 @@
-CNN
+# CNN: 
+------------------------------
 
 (image_height, image_width, image_channels)크기의 입력텐서를 사용한다.
 
@@ -9,3 +10,4 @@ CNN
 
 
 합성곱 연산
+![3](https://user-images.githubusercontent.com/59241047/80000095-a9df6580-84f7-11ea-8b72-d3a6492373aa.JPG)
