@@ -1,4 +1,4 @@
-## Human Pose Estimation 기술의 발전과 미래
+## Human Pose Estimation기술의 발전과 미래
 
 https://www.youtube.com/watch?v=GBpnsFfLt2Q
 
